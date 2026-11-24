@@ -1,4 +1,3 @@
-
 from aggregator import AggregatorFactory
 
 def main():
